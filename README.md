@@ -17,3 +17,10 @@
 * Burrows-Wheeler Transformation
 
 ### References:
+* https://github.com/SaraEl-Metwally/Informatics-on-High-throughput-Sequencing-Data-Course-Summer-2020-/
+* https://github.com/lh3/bwa
+* https://www.cs.jhu.edu/~langmea/resources/lecture_notes/bwt_and_fm_index.pdf
+* https://www.researchgate.net/publication/271600379_Fast_inexact_mapping_using_advanced_tree_exploration_on_backward_search_methods
+* https://www.sciencedirect.com/science/article/pii/S1570866713000397
+* https://gist.github.com/Puriney/6324227
+* https://youtu.be/Dd_NgYVOdLk
