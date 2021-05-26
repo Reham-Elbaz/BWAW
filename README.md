@@ -2,7 +2,7 @@
 * Genomics course project, 3rd grade, Medical Informatics program at the Faculty of Computers and Information Science, Mansoura University.
 * BWAW is a web application for short reads aligner to a reference genome, stands for Burrows-Wheeler Aligner Web app.
 * Short read alignment is the process of figuring out where in the genome a short sequence is from.
-* Due to the difficulty of using command-line (with non-professional users) as in most alignment programs, we developed the website with GUI.
+* Due to the difficulty of using command-line (for non-professional users) as in most alignment programs, we developed the website with GUI.
 
 ### Input & Output:
 * Input: 
