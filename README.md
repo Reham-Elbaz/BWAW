@@ -15,6 +15,7 @@
 
 ### Algorithms used:
 * Burrows-Wheeler Transformation
+* Boyer-Moore-Horspool
 
 ### References:
 * https://github.com/SaraEl-Metwally/Informatics-on-High-throughput-Sequencing-Data-Course-Summer-2020-/
