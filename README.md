@@ -24,6 +24,7 @@
 * https://www.sciencedirect.com/science/article/pii/S1570866713000397
 * https://gist.github.com/Puriney/6324227
 * https://youtu.be/Dd_NgYVOdLk
+* https://iajit.org/PDF/November%202019,%20No.%206/15585.pdf
 
 ### Team members:
 * Asmaa Mostafa Elsayed
